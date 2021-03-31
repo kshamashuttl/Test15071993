@@ -1,4 +1,3 @@
-from py import path
 from setuptools import setup
 import setuptools
 
