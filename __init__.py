@@ -1,7 +1,5 @@
-from AutoApiTestRunner import config
-from AutoApiTestRunner import auto
+import auto
 
 __all__ = [
-    'config',
     'auto'
 ]
