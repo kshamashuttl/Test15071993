@@ -1,5 +1,5 @@
-import auto
+import autoT
 
 __all__ = [
-    'auto'
+    'autoT.py'
 ]

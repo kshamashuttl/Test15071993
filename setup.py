@@ -16,6 +16,6 @@ setup(
     py_modules=['Test15071993'],
     entry_points='''
         [console_scripts]
-        auto=auto:cli
+        autoT=autoT:cli
     '''
 )
